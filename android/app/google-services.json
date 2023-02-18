@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "692786569143",
+    "project_id": "notes-fb353",
+    "storage_bucket": "notes-fb353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692786569143:android:da43963300520ca31f1232",
+        "android_client_info": {
+          "package_name": "com.deem.notes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692786569143-iedlrqspa3t06dgf18s86duc63pcq1m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Lx9KU3I5cgEB8BZ8fhhOmhsl_h_OHT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692786569143-iedlrqspa3t06dgf18s86duc63pcq1m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
